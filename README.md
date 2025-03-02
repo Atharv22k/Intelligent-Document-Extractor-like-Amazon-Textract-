@@ -1,0 +1,1 @@
+# Intelligent-Document-Extractor-like-Amazon-Textract-
